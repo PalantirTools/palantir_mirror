@@ -35,20 +35,16 @@ That said, we're hoping you enjoy this project as much as we do and that it's ad
 Please unbind all actions from the Numpad on your keyboard as this project uses these keys for its own actions.
 
 * **F1** Reverts all changes and unloads the program
-* **F2** Triggers the action camera (press SHIFT to temporarily use the mouse)
+* **F2** Activates the custom GUI setting
 * **NUMPAD ADD** Increases the field of view
 * **NUMPAD SUBTRACT** Decreases the field of view
+* **GAMEPAD** Custom camera controls (see in-game GUI)
 
 ## Features
-### General Features
-
-* Launcher for injection
-* Pattern-scan for valid offsets
-
-### Reverse-engineered features
-* Action camera
 * Custom field of view
-* ~~Distance Fog~~
+* Weather override
+* Skybox override
+* Time override
 
 ## Related Projects
 
