@@ -1,9 +1,19 @@
-<img align="left" width="1000px" src="screens/fov75.jpg" />
-
-[![GitHub tag][shield_release]](https://github.com/PalantirTools/palantir_mirror/releases)
-[![GitHub issues][shield_issue]](https://github.com/PalantirTools/palantir_mirror/issues)
-[![Lotro Discord][shield_discord]](https://discord.gg/RPsNGUaEHA)
-[![Lotro Version][shield_version]](https://www.lotro.com/update-notes/lotro-update-44-2-1-release-notes-en)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;"><img align="left" width="1000px" src="screens/fov75.jpg" />
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+    <a href="https://github.com/PalantirTools/palantir_mirror/releases">
+        <img src="https://img.shields.io/github/v/release/PalantirTools/palantir_mirror?color=darklime&include_prereleases&style=for-the-badge" alt="GitHub tag">
+    </a>
+    <a href="https://github.com/PalantirTools/palantir_mirror/issues">
+        <img src="https://img.shields.io/github/issues-raw/PalantirTools/palantir_mirror?style=for-the-badge" alt="GitHub issues">
+    </a>
+    <a href="https://discord.gg/RPsNGUaEHA">
+        <img src="https://img.shields.io/discord/1152191547962576936?color=darklime&style=for-the-badge" alt="Lotro Discord">
+    </a>
+    <a href="https://www.lotro.com/update-notes/lotro-update-44-2-1-release-notes-en">
+        <img src="https://img.shields.io/badge/Tested%20with-Lotro%20Update%2042.2.1-red?style=for-the-badge" alt="Lotro Version">
+    </a>
+</div>
 
 <img align="left" width="54px" src="screens/appicon.ico" />
 
@@ -13,8 +23,19 @@ This project contains the binaries for Lord of the Rings Online - Palantir Editi
 
 ## Important Note
 **Use this software at your own risk**. The binaries are altering the game's code in the PC's memory and therefore might be identified as a hack or virus. If you use an anti-virus software it might quarantine the files. This is a false positive because the code injection is intended behavior and does not cause any harm.<br>
-As an [official response](https://web.archive.org/web/20250613211135/https://forums-old.lotro.com/forums/showthread.php?684404-motion-sickness-FOV-and-a-question-for-SSG&p=8045778#post8045778) (old forums are unavaiable now) stated, `Standing Stone Games` is not taking action against third-party tools that enhance the experience of players in-game as long as it's not granting an unfair advantage over other players. Yet, Standing Stone Games might change their position in the future, regarding this topic and thus might ban suspected accounts on this matter. **However**, we're not granting any such advantage and we're using those tools ourselves for nearly a decade now - not affecting the gameplay or harming others, it's to be considered safe.<br>
+As the community manager stated in his response on the old forums, `Standing Stone Games` is not taking action against third-party tools that enhance the experience of players in-game as long as it's not granting an unfair advantage over other players. Yet, Standing Stone Games might change their position in the future, regarding this topic and thus might ban suspected accounts on this matter. **However**, we're not granting any such advantage and we're using those tools ourselves for nearly a decade now - not affecting the gameplay or harming others, it's to be considered safe.<br>
 That said, we're hoping you enjoy this project as much as we do and that it's adding to your experience in-game.
+
+<div style="width: 600px; margin: 0 auto; text-align: center;">
+    <img src="screens/original_post.jpg" style="width: 100%; height: auto;" alt="Original forum post by Cordovan">
+    <p style="font-size: 0.9em; color: #666; margin-top: 8px;">
+        This was the original response by Cordovan on the old forums.<br>
+        It can be found on 
+        <a href="https://web.archive.org/web/20250613211135/https://forums-old.lotro.com/forums/showthread.php?684404-motion-sickness-FOV-and-a-question-for-SSG&p=8045778#post8045778" target="_blank" style="color: #666; text-decoration: underline;">
+            archive.org
+        </a>
+    </p>
+</div>
 
 ## Usage
 ### Do this once
@@ -47,9 +68,6 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 
 ## Comparison Gallery
 
-<img width="400px" src="screens/comparison01.jpg" /><img width="400px" src="screens/comparison02.jpg" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;"><img width="400px" src="screens/comparison01.jpg" /><img width="400px" src="screens/comparison02.jpg" />
+</div>
 
-[shield_release]: https://img.shields.io/github/v/release/PalantirTools/palantir_mirror?color=darklime&include_prereleases&style=for-the-badge
-[shield_issue]: https://img.shields.io/github/issues-raw/PalantirTools/palantir_mirror?style=for-the-badge
-[shield_discord]: https://img.shields.io/discord/1152191547962576936?color=darklime&style=for-the-badge
-[shield_version]: https://img.shields.io/badge/Tested%20with-Lotro%20Update%2042.2.1-red?style=for-the-badge
