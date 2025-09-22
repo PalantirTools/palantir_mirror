@@ -10,8 +10,8 @@
     <a href="https://discord.gg/RPsNGUaEHA">
         <img src="https://img.shields.io/discord/1152191547962576936?color=darklime&style=for-the-badge" alt="Lotro Discord">
     </a>
-    <a href="https://www.lotro.com/update-notes/lotro-update-44-2-1-release-notes-en">
-        <img src="https://img.shields.io/badge/Tested%20with-Lotro%20Update%2042.2.1-red?style=for-the-badge" alt="Lotro Version">
+    <a href="https://www.lotro.com/update-notes/lotro-update-45-4-1-release-notes-en">
+        <img src="https://img.shields.io/badge/Tested%20with-Lotro%20Update%2045.4.1-red?style=for-the-badge" alt="Lotro Version">
     </a>
 </div>
 
@@ -37,21 +37,22 @@ That said, we're hoping you enjoy this project as much as we do and that it's ad
     </p>
 </div>
 
-## Usage
-### Do this once
+## Installation and Usage
+### Preparations (Do this once)
 
 1. In the LOTRO Launcher by SSG go to Options
 2. Change the game client to 64-bit
 3. Download the current release from [here](https://github.com/PalantirTools/palantir_mirror/releases)
 4. Extract the bin.zip archive to wherever you like
-5. In the graphics settings of LOTRO, set the 'graphics hardware level' to DirectX11
+5. Start the game as usual
+6. In the graphics settings of LOTRO, set the 'graphics hardware level' to DirectX11
 
-### Do this every time you want to use the tools
+### Loading the mod
 
 1. Start the game as usual
 2. Go to deskop (e.g. press ALT+TAB)
 3. Go to the location where you extracted the bin.zip archive
-4. Start the `palantir.launcher.exe` that is part of this project in ADMIN mode
+4. Start the `palantir.launcher.exe` that is part of this project in **ADMIN** mode
 
 ## Keybindings
 Please unbind all actions from the Numpad on your keyboard as this project uses these keys for its own actions.
