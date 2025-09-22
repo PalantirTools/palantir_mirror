@@ -44,13 +44,14 @@ That said, we're hoping you enjoy this project as much as we do and that it's ad
 2. Change the game client to 64-bit
 3. Download the current release from [here](https://github.com/PalantirTools/palantir_mirror/releases)
 4. Extract the bin.zip archive to wherever you like
+5. In the graphics settings of LOTRO, set the 'graphics hardware level' to DirectX11
 
 ### Do this every time you want to use the tools
 
 1. Start the game as usual
 2. Go to deskop (e.g. press ALT+TAB)
 3. Go to the location where you extracted the bin.zip archive
-4. Start the `palantir.launcher.exe` that is part of this project
+4. Start the `palantir.launcher.exe` that is part of this project in ADMIN mode
 
 ## Keybindings
 Please unbind all actions from the Numpad on your keyboard as this project uses these keys for its own actions.
