@@ -10,8 +10,8 @@
     <a href="https://discord.gg/RPsNGUaEHA">
         <img src="https://img.shields.io/discord/1152191547962576936?color=darklime&style=for-the-badge" alt="Lotro Discord">
     </a>
-    <a href="https://www.lotro.com/update-notes/lotro-update-45-4-1-release-notes-en">
-        <img src="https://img.shields.io/badge/Tested%20with-Lotro%20Update%2045.4.1-red?style=for-the-badge" alt="Lotro Version">
+    <a href="https://www.lotro.com/update-notes/lotro-update-45-5-release-notes-en">
+        <img src="https://img.shields.io/badge/Tested%20with-Lotro%20Update%2045.5-red?style=for-the-badge" alt="Lotro Version">
     </a>
 </div>
 
