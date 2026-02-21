@@ -73,4 +73,8 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;"><img width="400px" src="screens/comparison01.jpg" /><img width="400px" src="screens/comparison02.jpg" />
 </div>
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+<a href="https://www.youtube.com/playlist?list=PLiIFVVksTB47hWyhX0gLWxXh-EbcSsf6U">
+        <img src="https://cdn.discordapp.com/attachments/1152195873435037767/1152705835747786862/videoseries.png?ex=699b69f7&is=699a1877&hm=cb7bfad13254b8abd299b01682fe52779db35ee4626d6979adc52397e0e9d183" alt="Lotro Playlist" />
+</a>
+</div>
