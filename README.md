@@ -10,8 +10,8 @@
     <a href="https://discord.gg/RPsNGUaEHA">
         <img src="https://img.shields.io/discord/1152191547962576936?color=darklime&style=for-the-badge" alt="Lotro Discord">
     </a>
-    <a href="https://www.lotro.com/update-notes/lotro-update-46-2-1-release-notes-en">
-        <img src="https://img.shields.io/badge/Tested%20with-Lotro%20Update%2046.2.1-red?style=for-the-badge" alt="Lotro Version">
+    <a href="https://www.lotro.com/update-notes/lotro-update-47-2-release-notes-en">
+        <img src="https://img.shields.io/badge/Tested%20with-Lotro%20Update%2047.2-red?style=for-the-badge" alt="Lotro Version">
     </a>
 </div>
 
@@ -55,11 +55,32 @@ That said, we're hoping you enjoy this project as much as we do and that it's ad
 4. Start the `palantir.launcher.exe` that is part of this project in **ADMIN** mode
 
 ## Keybindings
-Please unbind all actions from the Numpad on your keyboard as this project uses these keys for its own actions.
 
-* **F1** Reverts all changes and unloads the program
-* **F2** Activates the custom GUI setting
-* **F3** Activates fly camera mode
+**F1**: Reverts all changes and unloads the program
+
+**F2**: Activates the custom GUI setting
+
+**F3**: Activates fly camera mode
+
+**Gamepad A**: Decrease vertical FOV
+
+**Gamepad B**: Increase vertical FOV
+
+**Gamepad X**: Decrease base FOV
+
+**Gamepad Y**: Increase base FOV
+
+**Gamepad Left Trigger**: Move upward in screen space
+
+**Gamepad Right Trigger**: Control movement acceleration
+
+**Gamepad Left Shoulder Button**: Reset the camera
+
+**Gamepad Left Stick**: Rotate the camera
+
+**Gamepad Right Stick**: Move the camera forward and sideways in screen space
+
+**Note: The camera may occasionally glitch in camera mode. This can happen when the GUI is hidden and you try to use the reset button, or when some weird game state changes. To fix this, temporarily enable the GUI by pressing F2, then reset the camera using the left gamepad shoulder button. In rare cases, the camera may become unrecoverable, requiring a restart.**
 
 ## Related Projects
 
