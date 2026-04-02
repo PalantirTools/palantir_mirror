@@ -80,7 +80,7 @@ That said, we're hoping you enjoy this project as much as we do and that it's ad
 
 **Gamepad Right Stick**: Move the camera forward and sideways in screen space
 
-**Note: The camera may occasionally glitch in camera mode. This can happen when the GUI is hidden and you try to use the reset button, or when some weird game state changes. To fix this, temporarily enable the GUI by pressing F2, then reset the camera using the left gamepad shoulder button. In rare cases, the camera may become unrecoverable, requiring a restart.**
+**Note: The camera may occasionally glitch in camera mode. This can happen when some weird game state changes. To fix this, reset the camera using the left gamepad shoulder button. In rare cases, the camera may become unrecoverable, requiring a restart.**
 
 ## Related Projects
 
