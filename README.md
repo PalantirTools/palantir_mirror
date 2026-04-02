@@ -51,7 +51,7 @@ That said, we're hoping you enjoy this project as much as we do and that it's ad
 
 1. Start the game as usual
 2. Go to deskop (e.g. press ALT+TAB)
-3. Go to the location where you extracted the bin.zip archive
+3. Go to the location where you extracted the palantir.zip archive
 4. Start the `palantir.launcher.exe` that is part of this project in **ADMIN** mode
 
 ## Keybindings
